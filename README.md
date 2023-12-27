@@ -27,11 +27,11 @@ Follow one of these hacked guides:
 
 Sources:
 
-Web: https://www.pspunk.com/psp-cfw/
+1 (best) Web: https://www.pspunk.com/psp-cfw/
 
-Web: https://www.wikihow.com/Hack-a-PlayStation-Portable
+2 Web: https://www.wikihow.com/Hack-a-PlayStation-Portable
 
-Web https://hackinformer.com/PlayStationGuide/PSP/DEVICE_PSP.html
+3 Web https://hackinformer.com/PlayStationGuide/PSP/DEVICE_PSP.html
 
 Join HENkaku Discord server or other psp mod servsers for support!
 
