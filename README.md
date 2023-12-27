@@ -50,3 +50,7 @@ How to play PSN eboots on a PSP Console:
 Copy the folder containing the EBOOT.PBP file to \PSP\GAME\ without changing the folder name (the game ID).
 Example: X:\PSP\GAME\NPJJ00231\EBOOT.PBP
 PRO-C2 CFW has problems with PSN eboots use "PRO-C Fix-3".
+
+Note That:
+----
+These are modded or ported roms (by the community), that have been scanned with VirusTotal, and should be safe to use, I am not providing the files, I am just linking, so it's not my problem if their servers get in trouble..
