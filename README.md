@@ -25,4 +25,10 @@ Source: https://cdromance.com/?s=Spyro+psp (Note that these are not by me, i am 
 
 then you should be able to unzip and move the files that you need to onto your hacked psp..
 
-If confused go here: 
+If confused go here: https://cdromance.com/faq/#q5
+
+Or read: 
+How to play PSN eboots on a PSP Console:
+Copy the folder containing the EBOOT.PBP file to \PSP\GAME\ without changing the folder name (the game ID).
+Example: X:\PSP\GAME\NPJJ00231\EBOOT.PBP
+PRO-C2 CFW has problems with PSN eboots use "PRO-C Fix-3".
