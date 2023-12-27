@@ -1,5 +1,23 @@
 # spyro-playstation-psp-mod-ports-guide
-All or most old Spyro The Dragon PlayStation games ported to psp!
+All or most old Spyro The Dragon PlayStation games ported to PSP!
+
+Spyro the Dragon is a Platformer 3D video game published by Sony released on October 25th, 2007 for the PlayStation Network as PSOne Classic.
+
+Game Name:	Spyro the Dragon
+
+Region:	USA
+
+Console:	PSP Eboots
+
+Game Release:	2007-10-25 "(16 years ago)" (according to the site I got this from)
+
+Genre:	Platformer 3D
+
+Publisher:	Sony
+
+Languages:	English
+
+Image Format:	EBOOT.PBP
 
 How to install:
 
